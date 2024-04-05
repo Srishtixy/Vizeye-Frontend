@@ -38,7 +38,7 @@ const ContactMe = () => {
             </div>
             <a href="https://twitter.com/MohitDuhan199" target="_black">
               <div className="text-[#222222] text-3xl hover:underline hover:text-black">
-                @MohitDuhan15
+                @srishtixy 
               </div>
             </a>
           </div>
