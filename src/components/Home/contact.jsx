@@ -1,6 +1,7 @@
 import laptopIluss from "../../assets/images/laptop illustration.png";
 import RohitKumar from "../../assets/images/rohit kumar masked.png";
 import MohitKumar from "../../assets/images/MohitKumar.png";
+import Srishti from "../../assets/images/Srishti.jpeg";
 import twitterLogo from "../../assets/images/twitter logo.png";
 import linkedLogo from "../../assets/images/linkedin Logo.png";
 import githubLogo from "../../assets/images/githubLogo.png";
@@ -25,7 +26,7 @@ const ContactMe = () => {
         /> */}
       </div>
       <div className="">
-        <img src={MohitKumar} alt="Rohit Kumar masked" className="w-80" />
+        <img src={Srishti} alt="Srishti Tiwari" className="w-80" />
       </div>
       <div className="">
         <div
