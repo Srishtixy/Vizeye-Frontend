@@ -36,7 +36,7 @@ const ContactMe = () => {
             <div>
               <img src={twitterLogo} alt="twitter logo" className="w-16" />
             </div>
-            <a href="https://twitter.com/MohitDuhan199" target="_black">
+            <a href="https://twitter.com/srishtixy" target="_black">
               <div className="text-[#222222] text-3xl hover:underline hover:text-black">
                 @srishtixy 
               </div>
@@ -47,11 +47,11 @@ const ContactMe = () => {
               <img src={linkedLogo} alt="twitter logo" className="w-12" />
             </div>
             <a
-              href="https://www.linkedin.com/in/mohit-duhan-17a551212/"
+              href="https://www.linkedin.com/in/srishti-t-905474256/"
               target="_black"
             >
               <div className="text-[#222222] text-3xl hover:underline hover:text-black">
-                Mohit2301
+                Srishti Tiwari
               </div>
             </a>
           </div>
@@ -59,9 +59,9 @@ const ContactMe = () => {
             <div>
               <img src={githubLogo} alt="twitter logo" className="w-14" />
             </div>
-            <a href="https://github.com/mohitduhan19" target="_black">
+            <a href="https://github.com/Srishtixy" target="_black">
               <div className="text-[#222222] text-3xl hover:underline hover:text-black">
-                Mohit Kumar
+                Srishti Tiwari
               </div>
             </a>
           </div>
